@@ -27,9 +27,10 @@ npx -y bohr@latest dev
 
 Para criar a nossa aplicação inútil nós precisaremos das seguintes ferramentas:
 
+- [Discord Bohr.io](http://Bohr.io) (conta)
 - ChatGPT (conta de desenvolvedor/API)
 - Github (conta)
-- [Bohr.io](http://Bohr.io) (conta)
+- [Bohr.io](https://bit.ly/bohriodiscord)
 - Git Instalado - ([https://git-scm.com/book/pt-pt/v2/Começando-Instalar-o-Git](https://git-scm.com/book/pt-pt/v2/Come%C3%A7ando-Instalar-o-Git))
 - NPM / NPX ([https://nodejs.org/en](https://nodejs.org/en))
 - VSCode ([https://code.visualstudio.com/download](https://code.visualstudio.com/download))
