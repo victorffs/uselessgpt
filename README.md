@@ -1,6 +1,6 @@
-# SloganCreator
+# UselessGPT - Workshop
 
-Este projeto gera slogans usando IA!
+Este projeto sugere aplicativos inúteis usando IA!
 
 ## Como funciona?
 
@@ -21,3 +21,6 @@ Depois de fazer o deploy pelo bohr, acesse o repositório que será criado na su
 ```bash
 npx -y bohr@latest dev
 ```
+
+
+## Instruções
